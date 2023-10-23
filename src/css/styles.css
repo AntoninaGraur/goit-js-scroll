@@ -56,17 +56,18 @@
 
     .load-more {
       display: block;
-      font-size: 14px;
-      padding: 10px 20px;
+      font-size: 18px;
+      padding: 20px 30px;
       background: #ace80853;
       color: #000;
-      border-radius: 25px;
+      border-radius: 45px;
       border: 1px solid aqua;
       text-transform: uppercase;
       cursor: pointer;
       margin-left: 10px;
-      margin: 0 auto;
-      transition: background 0.2s ease-in-out;
+      margin: 20px auto;
+      transition: all 0.2s ease-in-out;
+       width: 700px;
     }
 
     .load-more:hover {
